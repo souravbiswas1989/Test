@@ -1,0 +1,5 @@
+bd_contact:
+  title: Bd Contact
+  description: 'This is a Bd Contact Form link'
+  parent: system.admin_structure
+  route_name: bd_contact

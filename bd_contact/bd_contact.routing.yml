@@ -1,0 +1,6 @@
+bd_contact:
+    path: /bdcontact
+    defaults:
+        _controller: Drupal\bd_contact\Controller\DemoController::bdcontact
+    requirements:
+        _permission: 'access content'
